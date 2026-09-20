@@ -1,0 +1,6 @@
+{
+  "name": "مَرْحَة | MARHA",
+  "description": "تطبيق ألعاب تعليمية تفاعلية للأطفال في مرحلة التأسيس - نلعب • نتعلم • ونقول: فهمتها! 💡",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
